@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/httpcomponents-client-4.5.13-bin/httpcomponents-client-4.5.13/lib/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/httpcomponents-client-4.5.13-bin/httpcomponents-client-4.5.13/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/httpcomponents-client-4.5.13-bin/httpcomponents-client-4.5.13/lib/fluent-hc-4.5.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/httpcomponents-client-4.5.13-bin/httpcomponents-client-4.5.13/lib/httpclient-4.5.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/httpcomponents-client-4.5.13-bin/httpcomponents-client-4.5.13/lib/httpclient-cache-4.5.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/httpcomponents-client-4.5.13-bin/httpcomponents-client-4.5.13/lib/httpclient-osgi-4.5.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/httpcomponents-client-4.5.13-bin/httpcomponents-client-4.5.13/lib/httpclient-win-4.5.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/httpcomponents-client-4.5.13-bin/httpcomponents-client-4.5.13/lib/httpcore-4.4.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/httpcomponents-client-4.5.13-bin/httpcomponents-client-4.5.13/lib/httpmime-4.5.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/httpcomponents-client-4.5.13-bin/httpcomponents-client-4.5.13/lib/jna-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/httpcomponents-client-4.5.13-bin/httpcomponents-client-4.5.13/lib/jna-platform-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/mysql-connector-java-8.0.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/poi-5.0.0/poi-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/poi-5.0.0/poi-examples-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/poi-5.0.0/poi-excelant-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/poi-5.0.0/poi-integration-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/poi-5.0.0/poi-ooxml-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/poi-5.0.0/poi-ooxml-full-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/poi-5.0.0/poi-ooxml-lite-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/poi-5.0.0/poi-scratchpad-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/poi-5.0.0/ooxml-lib/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/poi-5.0.0/ooxml-lib/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/poi-5.0.0/ooxml-lib/xmlbeans-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/poi-5.0.0/lib/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/poi-5.0.0/lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/poi-5.0.0/lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/java shit/poi-5.0.0/lib/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

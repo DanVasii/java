@@ -1,0 +1,2 @@
+module dragos_coordonate {
+}
